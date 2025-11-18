@@ -2,8 +2,8 @@
 ## Requirements
 
 ```
-git clone https://github.com/yisol/IDM-VTON.git
-cd IDM-VTON
+git clone https://github.com/SurajMande/VTON.git
+cd VTON
 
 conda env create -f environment.yaml
 conda activate idm
